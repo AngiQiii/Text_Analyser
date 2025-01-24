@@ -1,0 +1,10 @@
+.heading {
+    background-color: rgb(241 247 255);
+    width: 100%;
+    padding: 1rem 7rem;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.126);
+    border-top: 2px solid rgba(128, 128, 128, 0.126);
+    display: flex;
+    justify-content: space-between;
+  }
+  

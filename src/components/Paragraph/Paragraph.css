@@ -1,0 +1,13 @@
+.paragraph {
+    height: auto;
+    width: 100%;
+    padding: 0 2rem;
+    border: none;
+    font-size: 1.5rem;
+    outline: none;
+  }
+  
+  .paragraph::placeholder {
+    color: rgb(200, 199, 199);
+  }
+  

@@ -1,0 +1,21 @@
+.form {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .form-value {
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    color: rgb(134, 134, 135);
+  }
+  
+  .form-input {
+    display: flex;
+    text-align: center;
+    border: none;
+    font-size: 1.5rem;
+    width: 100%;
+    font-weight: bold;
+  }
+  
